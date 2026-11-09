@@ -1,0 +1,759 @@
+{
+  "version": 1,
+  "map": {
+    "name": "Granada",
+    "backgroundImage": "/map/mapa.png",
+    "objects": [
+      {
+        "id": "3029fbdb-9975-4b94-b618-dbe678ee28c5",
+        "x": 62,
+        "y": 25,
+        "label": "Refugio Municipal de Granada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "981fcaf7-c946-44ba-b859-287966674b91",
+        "x": 63,
+        "y": 26,
+        "label": "Torre de Comunicação Municipal",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "4d49a202-98d0-479e-8007-804e52164b2e",
+        "x": 61,
+        "y": 24,
+        "label": "Silo de Granada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "8d1cd57f-cc04-477e-b032-4fd9b815d4df",
+        "x": 16,
+        "y": 12,
+        "label": "Banco Miresol",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "b61003fb-b68e-43d7-a470-69f9d26385db",
+        "x": 1,
+        "y": 46,
+        "label": "Estacionamento de Veículos Fidel",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "ccc46238-2e6e-4e6c-8b21-6e426e8ac836",
+        "x": 38,
+        "y": 51,
+        "label": "Taller El Pistón de Oro",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "ce5e2611-680d-444d-99ba-96defce8f11d",
+        "x": 55,
+        "y": 21,
+        "label": "Aposentos dos Funcionários da OPI",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "a93cfb79-4dcd-4093-8cd1-abe489e226e1",
+        "x": 55,
+        "y": 37,
+        "label": "Oficina de Javier Morales",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "eace8252-41f0-400c-8a5c-efe612802b61",
+        "x": 60,
+        "y": 24,
+        "label": "Oficina de Carmen Velasco",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "bda6d6c0-af1f-4bad-8ee5-863d0cd1b245",
+        "x": 54,
+        "y": 6,
+        "label": "Taller Los Hermanos Rojos",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "d75ced90-a486-46d2-8711-9fdf838c438b",
+        "x": 51,
+        "y": 8,
+        "label": "Mecánica Santa Bárbara",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "6187718c-573c-42b8-af75-de67e81d5a6a",
+        "x": 9,
+        "y": 8,
+        "label": "Taller Rueda Libre",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "00dbf2aa-3edb-425c-8841-b1ae155c6cb9",
+        "x": 56,
+        "y": 60,
+        "label": "Olho do Abismo",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "b07a4ff4-d459-4b48-a533-faf18f4f9a48",
+        "x": 32,
+        "y": 42,
+        "label": "Silo de Rações Juan Lopez",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "1b80e4c6-82a3-4f73-bf25-00f7dba7b24b",
+        "x": 15,
+        "y": 11,
+        "label": "Ciudad de Valdemora",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "bf376107-de2c-495f-b107-8701bca1faf1",
+        "x": 2,
+        "y": 27,
+        "label": "Ciudad de San Aurelio",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "d285ce83-ff86-442f-a524-fe319575a5e7",
+        "x": 0,
+        "y": 47,
+        "label": "Ciudad de Monteluna",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "dc811705-4140-4e51-b44b-cfd925f2f134",
+        "x": 27,
+        "y": 51,
+        "label": "Ciudad de Villaclara",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "190ce3d8-3c52-458a-84c9-e0da1cc46596",
+        "x": 44,
+        "y": 52,
+        "label": "San Pedro del Valle",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "ee64c315-029c-4aba-884a-c96321016e6f",
+        "x": 57,
+        "y": 50,
+        "label": "Depósito de Munições de Granada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "1049d52b-7966-4b17-8912-162d299b35ee",
+        "x": 22,
+        "y": 45,
+        "label": "Museu de Sierra Nevada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "9fe6eca5-106e-4def-80df-629f2241d111",
+        "x": 1,
+        "y": 63,
+        "label": "Refúgio Santa Rita",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "94e9ae83-f16f-465a-b8c9-4cbea0f3ef43",
+        "x": 9,
+        "y": 6,
+        "label": "Mansão de Isabel de Valcárcel",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "a09026f1-daa9-4e90-aa4a-98f9fac145cc",
+        "x": 11,
+        "y": 7,
+        "label": "Mansão de Alejandro Montenegro",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "1100bd7c-dff9-41c6-ae70-001fd6345536",
+        "x": 51,
+        "y": 6,
+        "label": "Mansão de Victoria Salvatierra",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "7373e768-065b-467a-9a79-9359b8416d9b",
+        "x": 36,
+        "y": 51,
+        "label": "Mansão de Don Rafael de Castilla",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "51aa81ca-2fad-4054-82c3-c1a3c6646eee",
+        "x": 60,
+        "y": 1,
+        "label": "Ponto de Controle Norte da OPI",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "4afb74e0-6f47-4e66-939f-8539ca0b07e2",
+        "x": 15,
+        "y": 60,
+        "label": "Silo Chiaclan",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "f3af0056-f11b-4778-a4d9-ae17ed775002",
+        "x": 37,
+        "y": 26,
+        "label": "Cabana dos Pinheiros de Navarra",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "5639d38b-419a-47a7-a864-b473b40ac10c",
+        "x": 21,
+        "y": 12,
+        "label": "Cabana do Bosque de Cantábria",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "aeb3d567-e844-48e4-8cb6-0fc162b98f88",
+        "x": 10,
+        "y": 18,
+        "label": "Cabana do Cabo de Finisterra",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "d79ecb37-ebac-4653-a184-9e0c6fb43ec5",
+        "x": 60,
+        "y": 37,
+        "label": "Cabana das Terras de La Rioja",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "ccbf854a-cfa6-4638-8646-0b44bceee991",
+        "x": 52,
+        "y": 40,
+        "label": "Cabana de Javier Ortega",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "6e77202b-0e10-4235-a405-c34b0ae9b4aa",
+        "x": 44,
+        "y": 19,
+        "label": "Fazenda Los Olivos",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "d245ba80-75a7-4adf-bbc3-a421d479602e",
+        "x": 25,
+        "y": 5,
+        "label": "Fazenda San Miguel",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "11d3c69e-b782-44b6-b131-66d893207261",
+        "x": 1,
+        "y": 49,
+        "label": "Fazenda Valle de Hierro",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "0af7b9e9-e85b-43e6-af7a-200f1995d3d5",
+        "x": 3,
+        "y": 60,
+        "label": "Casa de Javier Morales",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "00da8d84-f58e-4627-bbeb-c198f01326b7",
+        "x": 14,
+        "y": 60,
+        "label": "Casa de Carmen Valverde",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "6101c1e5-27e2-468f-add1-95e642e6512e",
+        "x": 35,
+        "y": 52,
+        "label": "Casa de Lucía Serrano",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "817ae105-aab6-433b-9a07-e54d1763ca56",
+        "x": 37,
+        "y": 53,
+        "label": "Casa de Beatriz Salvatierra",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "0262c466-7660-4194-8925-d125a56ec444",
+        "x": 42,
+        "y": 18,
+        "label": "Casa de Álvaro Fernández",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "a027cefd-b4a4-4732-87a4-2f7b6b80d3a4",
+        "x": 3,
+        "y": 54,
+        "label": "Casa de Martina Fuentes",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "9dc336b5-d906-4348-a644-f4e4b7ded9a9",
+        "x": 53,
+        "y": 8,
+        "label": "Casa de Isabel Navarro",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "f65f7d40-2fdc-4859-9cf4-a50668971376",
+        "x": 52,
+        "y": 5,
+        "label": "Casa de Martina Fuentes",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "1b9bc3e8-e0b8-4bb2-a8fb-405256a0ca99",
+        "x": 23,
+        "y": 61,
+        "label": "Hospital Santa María de Valencia",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "835e2c6b-8d04-4373-81ef-557b7f589739",
+        "x": 36,
+        "y": 57,
+        "label": "Hospital San Rafael de Aragón",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "166e3fc6-a21a-48c0-abbd-514ebbf29606",
+        "x": 1,
+        "y": 28,
+        "label": "Hospital General de Castilla",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "bdfff800-b72c-412d-b75f-0e78195d42e5",
+        "x": 47,
+        "y": 3,
+        "label": "Hospital Santa Fé",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "a8251154-289e-4709-83ef-5fe13c80cd2c",
+        "x": 41,
+        "y": 7,
+        "label": "Cidade Madre Tereza",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "9d37ce78-7946-4355-8fdb-62eb4df85ad5",
+        "x": 35,
+        "y": 1,
+        "label": "Cabana do Miguel Antônez",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "7dc33d6c-a160-4cce-95a4-85d65d21b847",
+        "x": 31,
+        "y": 7,
+        "label": "Cabana de Mateo",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "5d4facec-2f35-4d54-be6b-e0f084f49889",
+        "x": 4,
+        "y": 16,
+        "label": "Cabana do Diego Sanchez",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "738ba0dc-0805-4fcc-ac6d-a2fa24debba2",
+        "x": 20,
+        "y": 2,
+        "label": "Fabrica de Motores de Granada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "44fb136f-32bc-4464-b377-db7da4541725",
+        "x": 3,
+        "y": 1,
+        "label": "Refugio San Juan",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "10ea2da3-972a-4057-80eb-837658194db2",
+        "x": 7,
+        "y": 4,
+        "label": "Clariqua Tratamento 1",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "dba1883d-9b1d-44ca-b981-1ca57b28e7ca",
+        "x": 38,
+        "y": 12,
+        "label": "Clariqua Tratamento 2",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "da2c8f77-8df2-45a1-9b3b-c7bec0b3624b",
+        "x": 24,
+        "y": 28,
+        "label": "Clariqua Tratamento 3",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "0b3e1cca-3699-4465-ba9b-8a2410fbe6d6",
+        "x": 57,
+        "y": 30,
+        "label": "Clariqua Tratamento 4",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "f69bac9b-0ada-469f-92f9-c57d5fece5ee",
+        "x": 8,
+        "y": 37,
+        "label": "Clariqua Tratamento Deactivada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "6f478b0c-e9eb-41a9-a935-311f4c13e2de",
+        "x": 28,
+        "y": 22,
+        "label": "Prefeitura de Granada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "6dc343bf-bf7d-43cb-918b-3ab1b2bd0353",
+        "x": 26,
+        "y": 22,
+        "label": "Hospital de Granada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "37b2882e-e332-408e-818f-170b420032f2",
+        "x": 28,
+        "y": 24,
+        "label": "Sul de Granada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "aa7c124b-255c-45d4-aea1-8980b70cdd08",
+        "x": 30,
+        "y": 23,
+        "label": "Mercado de Granada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "6cbbeff4-ca6f-4289-91e1-ce1598561d40",
+        "x": 25,
+        "y": 23,
+        "label": "Refugio San Pietro",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "fa982ed7-92b6-4700-9a32-8664e523cd68",
+        "x": 27,
+        "y": 20,
+        "label": "Museu de Granada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "3e48a500-352c-4c2d-bab1-7281a1742a0e",
+        "x": 28,
+        "y": 18,
+        "label": "Norte de Granada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "30acadba-d61e-4804-9e7b-465e70493f62",
+        "x": 29,
+        "y": 21,
+        "label": "Centro de Granada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "cbb65159-6ded-4bf0-b457-89c12020ae48",
+        "x": 30,
+        "y": 20,
+        "label": "Banco de Granada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "756442c7-81d3-45b4-874d-ba52b6886c59",
+        "x": 29,
+        "y": 19,
+        "label": "Centro da Organização Petrolífera de Ibéria (OPI)",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "cd6fcafe-1369-4c77-889e-fe829dce5bd7",
+        "x": 48,
+        "y": 26,
+        "label": "Centro de Perfuração da OPI 1",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "1086331f-fdf2-4d36-895f-16bdbe390669",
+        "x": 61,
+        "y": 24,
+        "label": "Centro de Perfuração da OPI 2",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "92afe4c7-660d-4832-8629-becd14206e56",
+        "x": 43,
+        "y": 31,
+        "label": "Centro de Perfuração da OPI 3",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "2203fd63-1df5-4ff7-b7d7-5b3113c87158",
+        "x": 33,
+        "y": 15,
+        "label": "Posto de Observação Abandonado do Exercito de Granada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "aa7dd0b1-9ceb-42ee-a974-0202c3469328",
+        "x": 62,
+        "y": 12,
+        "label": "Posto de Observação Charlie (Guardas Florestais)",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "50e14774-7656-4c7f-97ca-f7ecf7d5731b",
+        "x": 26,
+        "y": 38,
+        "label": "Posto de Controle da Montanha",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "7ac23292-0348-4e9f-a200-3403fa305eef",
+        "x": 42,
+        "y": 32,
+        "label": "Pico de Sierra Nevada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "687d1695-d4c3-4764-8a34-140f2b5a5f8d",
+        "x": 21,
+        "y": 40,
+        "label": "Centro Turistico de Sierra Nevada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "7dc9c27e-d2c0-42b1-abc1-5ee9b2a8a3bd",
+        "x": 60,
+        "y": 16,
+        "label": "Garagem de Mineradores da OPI",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "664c87e9-f575-491d-a601-81a5e016949a",
+        "x": 54,
+        "y": 1,
+        "label": "Fábrica de Munição de Granada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "420680cc-c3f6-4afb-ad58-315e771be842",
+        "x": 14,
+        "y": 52,
+        "label": "Fábrica de Bonecas Chiquitita",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "03e7ac58-6e98-46fb-a343-da4cc7435fdd",
+        "x": 54,
+        "y": 57,
+        "label": "Fábrica de Explosivos Ibértech (Sediado pela OPI)",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "eceecd2c-8d16-484d-95cd-77a1424e8853",
+        "x": 60,
+        "y": 54,
+        "label": "Refugio Santa Rosa",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      },
+      {
+        "id": "48c77b47-6ff4-46de-b9bc-a4a1a8a43188",
+        "x": 11,
+        "y": 46,
+        "label": "Ponto de Pesquisa de Sierra Nevada",
+        "type": "location",
+        "backgroundImage": null,
+        "border": "solid"
+      }
+    ],
+    "ambientLight": 100,
+    "effects": [],
+    "views": []
+  }
+}
