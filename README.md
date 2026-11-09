@@ -54,6 +54,28 @@ ng e2e
 
 Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
+## Produção com Docker
+
+Construa a imagem na raiz do repositório:
+
+```bash
+docker build -t piplontra .
+```
+
+Inicie o container com um volume nomeado para preservar o estado do jogo e os uploads entre atualizações:
+
+```bash
+docker run -d \
+  --name piplontra \
+  --restart unless-stopped \
+  -p 3000:3000 \
+  -e MASTER_USERNAMES=mestre \
+  -v piplontra-data:/data \
+  piplontra
+```
+
+A aplicação fica disponível em `http://localhost:3000`. Configure `MASTER_USERNAMES` com os nomes dos Mestres, separados por vírgula. O volume `/data` contém o banco e os uploads; mantenha-o ao recriar o container.
+
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
